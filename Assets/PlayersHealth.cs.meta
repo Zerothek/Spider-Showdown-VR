@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 34a0785a7d1d1f14d85506eb310a9217
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - maxHealth: {fileID: 2800000, guid: f9345c3cd7e949d42bb6b1a678728f3c, type: 3}
+  - health2: {fileID: 2800000, guid: 7e7b6be7dadad71458c627c1ba94fc73, type: 3}
+  - health3: {fileID: 2800000, guid: 99927b34c952ad44fadf07868019e360, type: 3}
+  - minHealth: {fileID: 2800000, guid: 1052e89829ba4574d826027e35229619, type: 3}
+  - dead: {fileID: 2800000, guid: dc6a8160bd5da614d9056397eee836b9, type: 3}
+  - data: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
